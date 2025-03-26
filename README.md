@@ -46,7 +46,7 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 3. Run the project  
    ```sh
-   Run all Cells in Customer Product Recommendation - Hackathon.ipynb Notebook
+   Run all Cells in Customer Product Recommendation - Hackathon.ipynb in Jupyter Notebook
    ```
 
 ## 🏗️ Tech Stack
